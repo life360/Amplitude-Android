@@ -15,8 +15,8 @@
     <property name="test.reports" location="${dist}/reports"/>
 
     <property environment="env" />
-    <property name="android-sdk-path" value="${env.ANDROID_SDK}" />
-    <property name="android-target" value="${env.ANDROID_TARGET}" />
+    <property name="android-sdk-path" value="/Users/maxspaulding/Library/Android/sdk" />
+    <property name="android-target" value="30" />
 
     <property name="groupId" value="com.amplitude" />
     <property name="artifactId" value="amplitude-android" />

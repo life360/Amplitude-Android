@@ -1,5 +1,7 @@
 ## Unreleased
 
+## 2.23.2 (December 16, 2020)
+
 ## 2.23.2 (August 05, 2019)
 
 * Catch exceptions when fetching most recent location.
